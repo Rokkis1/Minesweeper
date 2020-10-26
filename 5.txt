@@ -1,0 +1,8 @@
+Rows:10
+Columns:10
+Type:0
+Height:500
+Width:500
+adjacent:1,1,0,0,0,0,0,0,1,1,end1,1,0,0,0,0,0,1,2,2,end0,1,1,1,1,2,2,2,2,2,end2,3,2,1,1,2,2,2,1,1,end3,5,4,2,1,2,3,3,2,1,end3,5,4,2,0,0,2,3,3,1,end2,4,3,3,2,2,3,3,3,1,end1,3,3,4,3,2,2,1,1,0,end2,3,3,4,4,2,1,0,0,0,end1,2,3,3,2,0,0,0,0,0,end
+Mine Array:true,false,false,false,false,false,false,false,false,false,endfalse,false,false,false,false,false,false,false,false,true,endfalse,false,false,false,false,false,false,false,true,false,endfalse,false,true,false,false,true,true,false,false,false,endtrue,true,false,false,false,false,false,false,false,false,endfalse,true,true,false,false,false,false,true,true,false,endfalse,false,true,false,false,false,false,true,false,false,endtrue,false,false,false,true,true,false,false,false,false,endfalse,false,true,true,false,false,false,false,false,false,endtrue,false,false,true,false,false,false,false,false,false,end
+Is Pressed:false,false,false,false,false,false,false,false,false,false,endfalse,false,false,false,false,false,false,false,false,false,endfalse,false,false,false,false,false,false,false,false,false,endfalse,false,false,false,false,false,false,false,false,false,endfalse,false,false,true,true,true,true,false,false,false,endfalse,false,false,true,true,true,true,false,false,false,endfalse,false,false,true,true,true,true,false,false,false,endfalse,false,false,false,false,false,false,false,false,false,endfalse,false,false,false,false,false,false,false,false,false,endfalse,false,false,false,false,false,false,false,false,false,end
